@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Nicholas Easterby     EAS12337350
 public class BoxScript : MonoBehaviour {
 
     //Public variable that holds the text for the button
