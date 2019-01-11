@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Nicholas Easterby     EAS12337350
 public class GameScript : MonoBehaviour
 {
     //List holding the numbers, accessible from any script
